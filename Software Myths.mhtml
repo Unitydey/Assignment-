@@ -1,0 +1,118 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://users.csc.calpoly.edu/~jdalbey/205/Lectures/myths.html
+Subject: Software Myths
+Date: Fri, 25 Sep 2020 07:27:41 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--GWjSwpPd6jM3eYh7ZAcBO2uG6MafzivtMzKdvK9p4B----"
+
+
+------MultipartBoundary--GWjSwpPd6jM3eYh7ZAcBO2uG6MafzivtMzKdvK9p4B----
+Content-Type: text/html
+Content-ID: <frame-B8644BD034C80258EDCC31727C5CF7E0@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://users.csc.calpoly.edu/~jdalbey/205/Lectures/myths.html
+
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en"><html><head><=
+meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+  =20
+   <meta name=3D"GENERATOR" content=3D"Mozilla/4.77 [en] (Windows NT 5.0; U=
+) [Netscape]">
+   <title>Software Myths</title>
+</head>
+<body bgcolor=3D"#FFFAF0">
+
+<h2>
+Software Development Myths</h2>
+Pressman (1997) describes a number of common beliefs or myths that software
+managers, customers, and developers believe falsely. He describes these
+myths as ``misleading attitudes that have caused serious problems.'' We
+look at these myths to see why they are false, and why they lead to trouble=
+.
+<p><b>Software Management Myths</b>. Pressman describes managers' beliefs
+in the following mythology as grasping at straws:
+</p><ul>
+<li>
+<i>Development problems can be solved by developing and documenting standar=
+ds.</i>
+Standards have been developed by companies and standards organizations.
+They can be very useful. However, they are frequently ignored by developers
+because they are irrelevant and incomplete, and sometimes incomprehensible.=
+</li>
+
+<li>
+<i>Development problems can be solved by using state-of-the art tools.</i>
+Tools may help, but there is no magic. Problem solving requires more than
+tools, it requires great understanding. As Fred Brooks (1987) says, there
+is no silver bullet to slay the software development werewolf.</li>
+
+<li>
+<i>When schedules slip, just add more people</i> This solution seems intuit=
+ive:
+if there is too much work for the current team, just enlarge it. Unfortunat=
+ely,
+increasing team size increases communication overhead. New workers must
+learn project details taking up the time of those who are already immersed
+in the project. Also, a larger team has many more communication links,
+which slows progress. Fred Brooks (1975) gives us one of the most famous
+software engineering maxims, <b>which is not a myth</b>, ``adding people
+to a late project makes it later.''</li>
+</ul>
+<b>Software Customer Myths</b>. Customers often vastly underestimate the
+difficulty of developing software. Sometimes marketing people encourage
+customers in their misbeliefs.
+<ul>
+<li>
+<i>Change is easily accommodated, since software is malleable.</i></li>
+
+<br>Software can certainly be changed, but often changes after release
+can require an enormous amount of labor.
+<li>
+<i>A general statement of need is sufficient to start coding</i></li>
+
+<br>This myth reminds me of a cartoon that I used to post on my door. It
+showed the software manager talking to a group of programmers, with the
+quote: ``You programmers just start coding while I go down and find out
+what they want the program to do.'' This scenario is an exaggeration. Howev=
+er,
+for developers to have a chance to satisfy the customers requirements,
+they need detailed descriptions of these requirements. Developers cannot
+read the minds of customers.</ul>
+<b>Developer Myths</b>. Developers often want to be artists (or artisans),
+but the software development craft is becoming an engineering discipline.
+However myths remain:
+<ul>
+<li>
+<i>The job is done when the code is delivered.</i></li>
+
+<br>Commercially successful software may be used for decades. Developers
+must continually maintain such software: they add features and repair bugs.
+Maintenance costs predominate over all other costs; maintenance may be
+70% of the development costs. This myth is true only for <i>shelfware</i>
+--- software that is never used, and there are no customers for next releas=
+e
+of a shelfware product.
+<li>
+<i>Project success depends solely on the quality of the delivered <b>progra=
+m</b></i>.</li>
+
+<br>Documentation and software configuration information is very important
+to the quality. After functionality, maintainability, see the preceding
+myth, is of critical importance. Developers must maintain the software
+and they need good design documents, test data, etc to do their job.
+<li>
+<i>You can't assess software quality until the program is running.</i></li>
+
+<br>There are <i>static</i> ways to evaluate quality without running a
+program. Software reviews can effectively determine the quality of requirem=
+ents
+documents, design documents, test plans, and code. Formal (mathematical)
+analyses are often used to verify safety critical software, software securi=
+ty
+factors, and very-high reliability software.</ul>
+
+
+
+</body></html>
+------MultipartBoundary--GWjSwpPd6jM3eYh7ZAcBO2uG6MafzivtMzKdvK9p4B------
